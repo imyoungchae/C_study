@@ -32,8 +32,7 @@ void main()
 
 
 /*
-- 쓰인 개념
-1) if - else문
+- if - else문
     if (조건식1)
     {
         실행문1;
@@ -50,7 +49,7 @@ void main()
         실행문2;
     }
 
- 2) 논리(logic) 연산자
+ - 논리(logic) 연산자
      X&&Y / AND(논리곱) / 조건식 X와 Y 모두 만족해야 1
      X||Y / OR(논리합)  / 조건식 X,Y 중 하나만 만족하면 1
      ! / NOT(논리 부정) / 조건식 결과 값 toggle
