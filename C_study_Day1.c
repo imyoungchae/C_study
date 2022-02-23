@@ -13,6 +13,7 @@
  출력: Normal
  */
 
+
 #include <stdio.h>
 void main()
 {
@@ -28,8 +29,6 @@ void main()
 	else printf("Error \n");
 	
 }
-
-
 
 
 /*
